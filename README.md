@@ -20,10 +20,6 @@ O conjunto de dados contém informações sobre características dos automóveis
 5. **Modelagem**: Um modelo de regressão linear é treinado e avaliado.
 6. **Visualização**: Gráficos são gerados para visualizar os resultados.
 
-## Resultados
-- O coeficiente de determinação (R²) para o conjunto de treino foi de **X.XX**.
-- O coeficiente de determinação (R²) para o conjunto de teste foi de **Y.YY**.
-
 ## Como Executar
 1. Certifique-se de ter as bibliotecas necessárias instaladas (`pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`).
 2. Execute o script Python para ver a análise e as visualizações.
